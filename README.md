@@ -10,7 +10,7 @@ npx arlocal
 ```
 That's it! You are running a local slim gateway on `http://localhost:1984`
 
-How about if I want to run it on another port?!
+How about if I want to run it on another port?! 
 It's as simple as doing:
 ```
 npx arlocal 8080
